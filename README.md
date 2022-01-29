@@ -1,1 +1,1 @@
-# CoronaDetails.js
+# Recent Corona Cases Details of India
