@@ -1,0 +1,1 @@
+# CoronaDetails.js
